@@ -36,12 +36,12 @@ Once the required libraries are installed, you can run the scraper tool locally:
 ### Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/practo-doctor-scraper.git
+git clone https://github.com/Harsh-bartariya/Practo-web-scraper-tool_paidIntern.git
 ```
 Navigate to the project directory:
 
 ```bash
-cd practo-doctor-scraper
+cd Practo-web-scraper-tool_paidIntern
 ```
 Run the Streamlit application:
 
